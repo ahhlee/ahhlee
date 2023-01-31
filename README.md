@@ -2,10 +2,10 @@
 <h3 align="center">A Software QA specialist</h3>
 
 - 🌱 **I’m currently learning**:
-   -QA Automation:
-    -Cypress
-    -Selenium
-    -Playwright
+   - QA Automation:
+      - Cypress
+      - Selenium
+      - Playwright
 
 
 - ⚡ **Fun facts**:
