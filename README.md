@@ -6,8 +6,12 @@
       - Cypress
       - Selenium
       - Playwright
+   - Raspberry Pi tinkering
+   - laTeX
 
 
 - ⚡ **Fun facts**:
-  -  I like to swing dance
-  -  I have way too many craft hobbies (knitting, cross stitch, sewing, 3D Painting)
+  -  I like to swing dance.
+  -  I have way too many craft hobbies (knitting, cross stitch, sewing, 3D Painting).
+  -  I adore Golden Retrievers.
+  -  
