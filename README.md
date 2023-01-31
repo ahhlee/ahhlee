@@ -14,4 +14,3 @@
   -  I like to swing dance.
   -  I have way too many craft hobbies (knitting, cross stitch, sewing, 3D Painting).
   -  I adore Golden Retrievers.
-  -  
