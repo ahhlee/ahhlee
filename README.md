@@ -14,5 +14,5 @@ I'm a San Diego based QA Specialist with a passion for REGEX.
 
 - ⚡ **Fun facts**:
   -  I like to swing dance.
-  -  I have way too many craft hobbies (knitting, cross stitch, sewing, 3D Printing).
+  -  I have way too many craft hobbies (knitting, cross stitch, sewing, 3D printing).
   -  I adore Golden Retrievers.
