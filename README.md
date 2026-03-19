@@ -1,19 +1,26 @@
 <h3 align="center">Hi 👋, I'm Allie</h1>
-I'm a San Diego based QA Specialist with a passion for REGEX. 
+<div align="center">I'm a San Diego based Software QA Engineer with deep curiosity and a passion for learning.</div>
+<br><br>
 
-
-
-- 🌱 **I’m currently learning**:
+ **About Me**:
+   - Crafter 🧶
+   - Bookworm 📚
+   - Golden Retriever Enthusiast 🐕
+   - Tech for Good 💖
+ 
+     -------------------------------
+ 🌱 **I’m currently learning**:
    - QA Automation:
       - Cypress
       - TypeScript
    - Google Sheets AppScripts
+   - REGEX
    - Raspberry Pi tinkering
    - laTeX
 
-
-- ⚡ **Fun facts**:
-  -  I like to swing dance.
-  -  I'm learning to ice skate, with hopes of playing ice hockey.
-  -  I have way too many craft hobbies (knitting, crochet cross stitch, sewing, 3D printing).
-  -  I adore Golden Retrievers.
+     -------------------------------
+   
+ ⚡ **Fun facts**:
+  -  I like to swing dance. 
+  -  I'm currently learning to ice skate. 🏒
+ 
